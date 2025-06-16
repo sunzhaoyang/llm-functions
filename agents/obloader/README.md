@@ -1,3 +1,3 @@
 # Demo
 
-This agent serves as a demo to guide agent development and showcase various agent capabilities.
+This agent serves as a demo to show how to integrate aichat with obloader.
